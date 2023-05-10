@@ -32,4 +32,4 @@ THEN I am able to successfully create, update, and delete data in my database
 
 The following video shows the application's GET, GET by ID, POST, PUT, and DELETE routes for the Category, Product, and Tag models in Insomnia:
 
-![Testing routes in Insomnia.](https://drive.google.com/file/d/1KLJ8KHApnmZButUolyIN3Xn7hvdsHV7F/view)
+(https://drive.google.com/file/d/1KLJ8KHApnmZButUolyIN3Xn7hvdsHV7F/view)
